@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="multirom"
+           fetch="https://github.com/multirom-dev" />
+
+  <remove-project name="android_bootable_recovery" />
+
+  <project path="bootable/recovery" name="Team-Win-Recovery-Project" remote="multirom" revision="android-7.1-mrom" />
+
+</manifest>
