@@ -11,4 +11,5 @@
   <project name="kexec-tools" path="system/extras/multirom/kexec-tools" remote="multirom" revision="master" />
   <project name="libbootimg" path="system/extras/libbootimg" remote="MR" revision="master" />
   <project name="multirom_adbd" path="system/extras/multirom/adbd" remote="MR" revision="master" />
+  <project name="android_device_common_version-info" path="device/common/version-info" remote="MR" revision="master" />
 </manifest>
